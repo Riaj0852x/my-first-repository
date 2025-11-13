@@ -1,5 +1,3 @@
 # my-first-repository
 
-this is my first github project
-
-and i am excited
+this is my first github project <br> and i am excited
